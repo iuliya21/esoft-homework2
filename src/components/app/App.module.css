@@ -1,0 +1,6 @@
+.listCompetentions {
+  display: flex;
+  column-gap: 15px;
+  list-style-type: none;
+  padding: 0;
+}
